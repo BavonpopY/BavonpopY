@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Bavonpop Yingsuk
 
-<!--
-**BavonpopY/BavonpopY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuarial Science (Statistics) graduate from Chulalongkorn University. I work with data end to end:
+SQL databases, Python models, BI dashboards and testing of business systems.
 
-Here are some ideas to get you started:
+**Projects**
+- [BIB Assurance](https://github.com/<username>/bib-assurance) - online insurance system (Django, MySQL)
+- [Nike US Sales DW](https://github.com/<username>/nike-us-sales-data-warehouse) - SQL Server data warehouse, Tableau
+- [Thailand pension projection](https://github.com/<username>/thailand-pension-fund-projection) - actuarial model in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** SQL (SQL Server, MySQL), Python (pandas, NumPy), Tableau, Excel, Postman, JIRA
+
+[LinkedIn](https://www.linkedin.com/in/bavonpop-yingsuk-285428426)
